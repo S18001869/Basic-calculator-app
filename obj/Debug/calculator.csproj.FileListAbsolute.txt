@@ -1,0 +1,19 @@
+C:\Users\Rob\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\Rob\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\Rob\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\Rob\source\repos\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Rob\source\repos\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Rob\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Rob\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Rob\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\Rob\source\repos\calculator\obj\Debug\calculator.pdb
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\bin\Debug\calculator.exe.config
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\bin\Debug\calculator.exe
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\bin\Debug\calculator.pdb
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.exe
+C:\Users\danie\OneDrive\Documents\Year 2\Applied Programming\calculator\obj\Debug\calculator.pdb
